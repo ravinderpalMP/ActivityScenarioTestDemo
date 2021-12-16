@@ -1,11 +1,11 @@
-package com.bzh.test
+package com.example.activityscenariotestdemo
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.LinearLayoutCompat
-import com.bzh.test.test.R
+import com.example.activityscenariotestdemo.test.R
 
-class BZHActivityTest : AppCompatActivity() {
+class TestActivity : AppCompatActivity() {
 
     var testRootView: LinearLayoutCompat? = null
 
