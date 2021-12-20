@@ -8,8 +8,8 @@
 
     <application>
         <activity
-            android:name=".BZHActivityTest"
-            android:exported="true"></activity>
+            android:name=".TestActivity"
+            android:exported="true"/>
     </application>
 
 </manifest>
